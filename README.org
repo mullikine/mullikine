@@ -1,0 +1,32 @@
+* TODO Make table of contents
+
+#+BEGIN_SRC text -n :async :results verbatim code
+     Software
+         |            +-Abstract Al…
+         |            +-Algorithms
+         |            +-Software
+         |            +-artificial …
+         |            +-arxiv
+         |            +-astrophysics
+         |            +-big query
+         |            +-continuous-…
+         |      index-+-deepmind
+         |        |   +-fortescue
+         |        |   +-information…
+         |        |   +-machine lea…
+         |        |   +-math
+         |        |   +-reflection
+         |        |   +-seminars
+         |        |   +-slam
+         |        |   +-studies
+         |        |   +-tensorflow
+         |        |
+         +---+----+
+             |
+             V
+           emacs
+  
+  Emacs-lisp  Org-mode  lispy  org-brain  
+  
+  --- Entry -------------------------------------
+#+END_SRC
